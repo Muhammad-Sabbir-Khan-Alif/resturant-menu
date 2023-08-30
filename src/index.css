@@ -1,0 +1,100 @@
+.main-heading{
+  text-align: center;
+  font-size: 40px;
+  font-weight: 400;
+}
+.main-div{
+  padding-top: 75px;
+  background-color: #ccc9c0;
+  padding-bottom: 75px;
+}
+.underline{
+  width: 100px;
+  height: 4px;
+  background-color: #e38f10;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.button{
+  font-size: 15px;
+  color: white;
+  background-color: #e38f10;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  margin-left: 10px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-left: 10px;
+  padding-right: 10px;
+  transition: 0.5s;
+  text-decoration: none;
+}
+.nav-div{
+  width: 300px;
+  margin: 0 auto;
+  margin-top: 35px;
+}
+.button:hover{
+  background-color: #6e5229;
+}
+.item-div{
+  width: 23rem;
+  height: auto;
+  background-color: white;
+  padding-bottom: 1rem;
+  border:1px solid transparent;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+.item-section{
+  width: 98%;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+.item-image{
+  width: 23rem;
+  height: 14rem;
+  border: 0.3px solid transparent;
+  border-radius: 5px;
+  margin: -1px;
+}
+.item-title{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  text-transform: capitalize;
+  width: 65%;
+}
+.text-section{
+  margin-top: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.price-div{
+  text-align: center;
+  color: antiquewhite;
+  float: right;
+  width: 30%;
+  height: auto;
+  margin-top: -35px;
+}
+.item-price{
+  background-color: #e38f10;
+  font-size: 13px;
+  width: 50px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 7px;
+  padding-right: 7px;
+  margin-top: 1px;
+  margin-left: 30px;
+  border: 1px solid transparent;
+  border-radius: 3px;
+}
+.item-desc{
+  text-align: center;
+  color: #524848;
+}
+.desc-div{
+  margin-top: 20px;
+  text-transform: capitalize;
+  font-size: 12px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
